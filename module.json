@@ -1,0 +1,96 @@
+{
+  "id": "mutants-and-masterminds-3rd-edition-collection",
+  "title": "Mutants and Masterminds 3rd Edition Collection",
+  "version": "1.0.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "A collection of compendiums for Mutants and Masterminds 3rd Edition for advantages, power profile powers, gadget guide devices/equipment, equipment, vehicles, and headquarters/installations etc to assist in character creation!",
+  "authors": [
+    {
+      "name": "MultiVitamin",
+      "url": "https://github.com/kingofhell213/MM3E-Collection",
+      "discord": "multimythos",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/kingofhell213/MM3E-Collection",
+  "packs": [
+    {
+      "name": "advantages",
+      "label": "Advantages",
+      "path": "packs/advantages",
+      "type": "Item",
+      "system": "mutants-and-masterminds-3e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "power-profiles",
+      "label": "Power Profiles",
+      "path": "packs/power-profiles",
+      "type": "Item",
+      "system": "mutants-and-masterminds-3e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "gadget-guides",
+      "label": "Gadget Guides",
+      "path": "packs/gadget-guides",
+      "type": "Item",
+      "system": "mutants-and-masterminds-3e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "equipment",
+      "label": "Equipment",
+      "path": "packs/equipment",
+      "type": "Item",
+      "system": "mutants-and-masterminds-3e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "vehicles",
+      "label": "Vehicles",
+      "path": "packs/vehicles",
+      "type": "Item",
+      "system": "mutants-and-masterminds-3e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "headquarters",
+      "label": "Headquarters/Installations",
+      "path": "packs/headquarters",
+      "type": "Item",
+      "system": "mutants-and-masterminds-3e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "mutants-and-masterminds-3e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  }
+}
